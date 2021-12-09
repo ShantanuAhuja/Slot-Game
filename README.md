@@ -1,6 +1,5 @@
-Clone the Project 
-In Vs Code Open the project 
-Run the project in the terminal using  npm run start
+Clone the Project  In Vs Code Open the project 
+Run the project in the terminal using  npm run start  
 You will see website which compares three objects 
 
 
