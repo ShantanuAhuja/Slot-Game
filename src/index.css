@@ -1,0 +1,27 @@
+.heading_style{
+  color: aquamarine;
+  text-align: center;
+  text-transform: uppercase;
+   background-color:black;
+  opacity: 0.8;
+  background-image: radial-gradient(circle at center center, #181c5f, #f7e6e6), repeating-radial-gradient(circle at center center, #181c5f, #181c5f, 10px, transparent 20px, transparent 10px);
+  background-blend-mode: multiply;
+  font-weight: bolder;
+  width: 80%;
+  margin-left: 120px ;
+
+}
+body{
+  background-color : almond ;
+}
+.machine{
+  background-color: lightslategrey;
+  text-align: center;
+  border-radius: 5px;
+  padding: 2px 16px;
+  width: 40%;
+  color : bisque;
+  margin-left: 400px;
+  margin-top: 100px;
+
+}
